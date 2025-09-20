@@ -1,4 +1,4 @@
-//this is a pratice on vectors .
+//this is a practice on vectors .
 
 #include <iostream>
 #include <vector>
@@ -16,4 +16,5 @@ int main()
 		cout << Number << " ";
 	}
 }
+
 
