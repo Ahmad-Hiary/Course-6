@@ -22,7 +22,7 @@ void ReadNumbers(vector <int> &vNumber)
 	}
 }
 
-void PrintVectorElements(vector <int>& vNumber)
+void PrintVectorElements(vector <int> &vNumber)
 {
 	cout << "Vectors elements are : ";
 
@@ -43,4 +43,5 @@ int main()
 
 
 }
+
 
