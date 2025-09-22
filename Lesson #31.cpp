@@ -29,10 +29,10 @@ int main()
 
     /*
     
-    This member funcstion will show you how much elements are in vector .
+    This member function will show you how much elements are in vector .
     cout << vNumbers.size();
 
-    This member funcstion will print true,false if the vector empty or not .
+    This member function will print true,false if the vector empty or not .
     cout << vNumbers.empty();
 
     This will clear all elements in the vector .
@@ -44,4 +44,5 @@ int main()
 
 
 }
+
 
